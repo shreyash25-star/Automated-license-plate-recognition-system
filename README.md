@@ -1,1 +1,1 @@
-# Automated-license-plate-recognition-system
+Yolo Automatic license plate dtection model.
